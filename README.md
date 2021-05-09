@@ -4,5 +4,6 @@
 
 <h2>How to reach me</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/jardel-pereira-zermiani-421b1916a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jardel123zermiani@gmail.com)](mailto:jardel123zermiani@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/giancarlo-cavalli-933385175/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gc.giancarloo@gmail.com)](mailto:gc.giancarloo@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/giancarloc_/)]
