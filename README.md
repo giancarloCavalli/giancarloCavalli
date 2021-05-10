@@ -25,32 +25,33 @@
 <h3>Database</h3>
 <p>
   <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
-  <img title="MySQL" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL"/>
+  <img title="MySQL" src="https://img.icons8.com/color/34/000000/mysql-logo.png" alt="MySQL"/>
   <img title="MongoDB" src="https://img.icons8.com/color/34/000000/mongodb.png" alt="MongoDB"/>
 </p>
 
 <h3>Frameworks</h3>
 <p>
-<img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
-<img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
-<img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img title="Spring" src="https://img.icons8.com/color/34/000000/spring-logo.png" alt="SpringBoot"/>
+  <img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
+  <img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
+  <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
+  <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
+  <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
+  <img title="Bootstrap" src="https://img.icons8.com/color/100/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <h3>Mobile Frameworks</h3>
 <p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img title="Flutter" src="https://img.icons8.com/color/34/000000/flutter.png" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </p>
 
 <h3>Cloud AWS</h3>
 <p>
-<img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
+<img title="AmazonS3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="AmazonS3"/>
 </p>
 
 <h3>IDE</h3>
