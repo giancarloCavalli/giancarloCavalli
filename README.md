@@ -14,12 +14,12 @@
 
 <h3>Languages</h3>
 <p>
-<img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
-<img title="typescript" src="https://img.icons8.com/color/34/000000/typescript.png" alt="typescript"/>
-<img title="dart" src="https://img.icons8.com/color/34/000000/dart.png" alt="dart"/>  
-<img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
-<img title="html5" src="https://img.icons8.com/color/34/000000/html-5--v1.png" alt="html5"/>  
-<img title="css3" src="https://img.icons8.com/color/34/000000/css3.png" alt="css3"/>
+  <img title="Java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img title="TypeScript" src="https://img.icons8.com/color/34/000000/typescript.png" alt="TypeScript"/>
+  <img title="Dart" src="https://img.icons8.com/color/34/000000/dart.png" alt="Dart"/>
+  <img title="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
+  <img title="HTML5" src="https://img.icons8.com/color/34/000000/html-5--v1.png" alt="HTML5"/>  
+  <img title="CSS3" src="https://img.icons8.com/color/34/000000/css3.png" alt="CSS3"/>
 </p>
 
 <h3>Database</h3>
