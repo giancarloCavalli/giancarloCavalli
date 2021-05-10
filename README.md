@@ -33,8 +33,8 @@
 <p>
   <img title="Spring" src="https://img.icons8.com/color/34/000000/spring-logo.png" alt="SpringBoot"/>
   <img title="NextJS" src="https://cdn.icon-icons.com/icons2/2389/PNG/32/next_js_logo_icon_145038.png" alt="NextJS"/>
-  <img title="React" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
-  <img title="AngularJs" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
+  <img title="React" src="https://img.icons8.com/plasticine/34/000000/react.png"alt="React"/>
+  <img title="AngularJs" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJs"/>
   <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
   <img title="Maven" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png" alt="Maven"/>
   <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
