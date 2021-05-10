@@ -16,10 +16,10 @@
 <p>
 <img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
 <img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
+ <img title="html" height="32" src="https://img.icons8.com/nolan/64/html-5.png" alt="html"/>
+ <img title="css" height="32" src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h3>Database</h3>
