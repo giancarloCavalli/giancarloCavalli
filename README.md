@@ -15,8 +15,8 @@
 <h3>Languages</h3>
 <p>
 <img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>  
+<img title="typescript" src="https://img.icons8.com/color/64/000000/typescript.png" alt="typescript"/>
+<img title="dart" src="https://img.icons8.com/color/48/000000/dart.png" alt="dart"/>  
 <img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
 <img title="html" height="32" src="https://img.icons8.com/nolan/64/html-5.png" alt="html5"/>
 <img title="css" height="32" src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
