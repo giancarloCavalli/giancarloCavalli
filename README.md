@@ -32,6 +32,7 @@
 <h3>Frameworks</h3>
 <p>
   <img title="Spring" src="https://img.icons8.com/color/34/000000/spring-logo.png" alt="SpringBoot"/>
+  <img title="NextJS" src="https://cdn.icon-icons.com/icons2/2389/PNG/32/next_js_logo_icon_145038.png" alt="NextJS"/>
   <img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
   <img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
   <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
@@ -39,8 +40,7 @@
   <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
   <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
   <img title="Bootstrap" src="https://img.icons8.com/color/34/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img title="Netlify" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_netlify_icon_130354.png" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
