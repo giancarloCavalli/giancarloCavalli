@@ -41,7 +41,6 @@
   <img title="Netlify" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_netlify_icon_130354.png" alt="Netlify"/>
   <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
   <img title="Bootstrap" src="https://img.icons8.com/color/34/000000/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <h3>Mobile Frameworks</h3>
