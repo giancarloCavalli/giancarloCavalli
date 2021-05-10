@@ -24,9 +24,10 @@
 
 <h3>Database</h3>
 <p>
-<img title="MySql" height="32" src="https://img.icons8.com/metro/26/000000/mysql.png" alt="mysql"/>
 <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img title="dbeaver" height="32" src="https://img.icons8.com/dusk/64/000000/dbeaver.png" alt="dbeaver"/>
 </p>
 
 <h3>Frameworks</h3>
