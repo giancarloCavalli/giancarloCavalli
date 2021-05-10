@@ -10,9 +10,9 @@
 
 - 📫 My email: gc.giancarloo@gmail.com
 
-<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/> #Tools
+#Tools <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>
 
-** Languages **
+**Languages**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarloCavalli&hide=php&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
