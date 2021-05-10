@@ -10,7 +10,7 @@
 
 - 📫 My email: gc.giancarloo@gmail.com
 
-<h2>Tools <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20"/></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20"/> Tools</h2>
 
 <h3>💻 Languages</h3>
 <p>
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<br><h3>⚡ Database</h3>
+<h3>⚡ Database</h3>
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
