@@ -35,7 +35,7 @@
   <img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
   <img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
   <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
-  <img title="Maven" height="32" src"https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png" alt="Maven"/>
+  <img title="Maven" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png" alt="Maven"/>
   <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
   <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
   <img title="Bootstrap" src="https://img.icons8.com/color/34/000000/bootstrap.png" alt="Bootstrap"/>
