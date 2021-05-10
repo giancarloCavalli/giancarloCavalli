@@ -25,7 +25,7 @@
 <h3>Database</h3>
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -48,9 +48,9 @@
 <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 </p>
 
-<h3>Cloud</h3>
+<h3>Cloud AWS</h3>
 <p>
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
 </p>
 
 <h3>IDE</h3>
