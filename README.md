@@ -10,7 +10,7 @@
 
 - 📫 My email: gc.giancarloo@gmail.com
 
-#Tools <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="30"/>
+# Tools :hammer:
 
 **Languages**
 
