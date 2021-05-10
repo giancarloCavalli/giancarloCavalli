@@ -35,9 +35,10 @@
   <img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
   <img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angularJs"/>
   <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
+  <img title="Maven" height="32" src"https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png" alt="Maven"/>
   <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
   <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
-  <img title="Bootstrap" src="https://img.icons8.com/color/100/000000/bootstrap.png" alt="Bootstrap"/>
+  <img title="Bootstrap" src="https://img.icons8.com/color/34/000000/bootstrap.png" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -56,8 +57,8 @@
 
 <h3>IDE</h3>
 <p>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img title="VSCode" src="https://img.icons8.com/fluent/34/000000/visual-studio-code-2019.png" alt="VSCode"/>
+  <img title="Eclipse" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png" alt="Eclipse"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarloCavalli&hide=php&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
