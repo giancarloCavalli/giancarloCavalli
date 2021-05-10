@@ -38,9 +38,9 @@
   <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
   <img title="Maven" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_maven_icon_130397.png" alt="Maven"/>
   <img title="Heroku" src="https://img.icons8.com/color/34/000000/heroku.png" alt="Heroku"/>
+  <img title="Netlify" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_netlify_icon_130354.png" alt="Netlify"/>
   <img title="Sass" src="https://img.icons8.com/color/34/000000/sass.png" alt="Sass"/>
   <img title="Bootstrap" src="https://img.icons8.com/color/34/000000/bootstrap.png" alt="Bootstrap"/>
-  <img title="Netlify" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_netlify_icon_130354.png" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -58,7 +58,7 @@
 <h3>IDE</h3>
 <p>
   <img title="VSCode" src="https://img.icons8.com/fluent/34/000000/visual-studio-code-2019.png" alt="VSCode"/>
-  <img title="Eclipse" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png" alt="Eclipse"/>
+  <img title="Eclipse" src="https://img.icons8.com/officexs/34/000000/java-eclipse.png" alt="Eclipse"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giancarloCavalli&hide=php&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
