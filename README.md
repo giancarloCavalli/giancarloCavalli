@@ -18,8 +18,8 @@
 <img title="typescript" src="https://img.icons8.com/color/34/000000/typescript.png" alt="typescript"/>
 <img title="dart" src="https://img.icons8.com/color/34/000000/dart.png" alt="dart"/>  
 <img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
-<img title="html" height="32" src="https://img.icons8.com/nolan/64/html-5.png" alt="html5"/>
-<img title="css" height="32" src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
+<img title="html5" src="https://img.icons8.com/color/34/000000/html-5--v1.png" alt="html5"/>  
+<img title="css3" src="https://img.icons8.com/color/34/000000/css3.png" alt="css3"/>
 </p>
 
 <h3>Database</h3>
