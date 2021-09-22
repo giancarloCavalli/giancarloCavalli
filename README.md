@@ -45,7 +45,6 @@
 
 <h3>Mobile Frameworks</h3>
 <p>
-  <img title="Flutter" src="https://img.icons8.com/color/34/000000/flutter.png" alt="Flutter"/>
   <img title="Ionic" height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_ionic_icon_130522.png" alt="Ionic"/>
 </p>
 
