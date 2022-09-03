@@ -44,8 +44,10 @@ I'm Giancarlo Cavalli. Here are some of my values and interests:
 
 ### Database
 
-<img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
-<img title="MongoDB" src="https://img.icons8.com/color/34/000000/mongodb.png" alt="MongoDB"/>
+<p>
+  <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+  <img title="MongoDB" src="https://img.icons8.com/color/34/000000/mongodb.png" alt="MongoDB"/>
+</p>
 
 ### For more details, please check my [linkedin](https://www.linkedin.com/in/giancarlo-cavalli-933385175/).
 
