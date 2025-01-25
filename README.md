@@ -14,7 +14,7 @@ I'm Giancarlo Cavalli. Here are some of my values and interests:
   <li>Excellence</li>
 </ul>
 
-## I'm a bit experienced with...
+## I'm experienced with...
 
 ### Languages
 
