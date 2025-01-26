@@ -1,15 +1,17 @@
 <h1 align="center">Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="30"/></h1>
 
-I'm Giancarlo Cavalli. Here are some of my values and interests:
+My name is Giancarlo Cavalli. I am passionate about the scaling potential of the Tech industry. I channel this enthusiasm into the core of my work: system development. I find personal fulfillment in continuous learning and the relentless pursuit of new challenges.
+Here are some of my values and interests:
 
 <ul>
-  <li>Kaizen</li>
+  <li>Ownership</li>
   <li>Accountability</li>
+  <li>Personal && Professional Growth</li>
   <li>SOLID</li>
+  <li>Clean Architecture</li>
   <li>Full cycle development</li>
   <li>CI/CD</li>
   <li>Scalability</li>
-  <li>Clean Architecture</li>
   <li>Unit and integration testing</li>
   <li>Excellence</li>
 </ul>
